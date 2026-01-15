@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Shashvat
 
-<!--
-**shashchath/shashchath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at Texas A&M University with interests in software engineering, AI systems, and scalable backend development. I am also pursuing minors in AI in Business as well as Cybersecurity.
 
-Here are some ideas to get you started:
+- Interested in AI-powered systems, distributed systems, and applied machine learning
+- Experienced with Python, Java, C++ and full-stack web development
+- Based in Texas | Open to Summer 2026 internship opportunities in the US
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **RAG Chatbot** – Retrieval-augmented LLM system using LangChain and ChromaDB
+- **Boba Shop POS and Kiosk System** – Full-stack Java-based POS with cloud backend
+- **Personal Website** – Responsive portfolio website
+
+### Contact Me
+- Email: shashvatc@hotmail.com
+- Phone Number: 9723752880
