@@ -8,8 +8,8 @@ I'm a Computer Science student at Texas A&M University with interests in softwar
 
 ### Featured Projects
 - **RAG Chatbot** – Retrieval-augmented LLM system using LangChain and ChromaDB
-- **Boba Shop POS and Kiosk System** – Full-stack Java-based POS with cloud backend
-- **Personal Website** – Responsive portfolio website
+- **Boba Shop POS and Kiosk System** – Full-stack Java-based POS with cloud backend - https://project3-gang-y3-is9m.vercel.app/menu-selector
+- **Personal Website** – Responsive portfolio website - https://people.tamu.edu/~shashchath13/project1-shashchath13
 
 ### Contact Me
 - Email: shashvatc@hotmail.com
